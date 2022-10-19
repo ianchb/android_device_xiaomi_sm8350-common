@@ -423,6 +423,8 @@ vendor/lib/libcodec2_soft_common.so|7dd4e5f4ad411365ba97e0f2e5aa790971b3ff03
 vendor/lib/libdolbyottcameracontrol.so|3758b2541004c5d9a2935ed134afbabb66d6a315
 vendor/lib/libdovi.so|d88f42c44f420cc04fb019dd2f990ed304c4c7c0
 vendor/lib/libsfplugin_ccodec_utils.so|7d2c82483128507e5df7fef190c8d8a7cda46fb7
+vendor/lib/libcodec2_hidl@1.0.so:vendor/lib/libcodec2_hidl@1.0.stock.so
+vendor/lib/libcodec2_vndk.so:vendor/lib/libcodec2_vndk.stock.so
 
 # Mlipay
 vendor/bin/mlipayd@1.1
