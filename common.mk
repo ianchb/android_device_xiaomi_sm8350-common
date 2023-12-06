@@ -283,7 +283,7 @@ PRODUCT_COPY_FILES += \
 
 # IFAA manager
 PRODUCT_PACKAGES += \
-     IFAAService
+    IFAAService
 
 # IPACM
 PRODUCT_PACKAGES += \
