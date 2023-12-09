@@ -393,6 +393,7 @@ vendor/etc/seccomp_policy/codec2.vendor.base-arm.policy
 vendor/etc/seccomp_policy/codec2.vendor.ext-arm.policy
 vendor/etc/video_system_specs.json
 vendor/etc/vintf/manifest/c2_manifest_vendor.xml
+vendor/lib/libmm-color-convertor.so
 vendor/lib/libmmosal.so
 vendor/lib/libqc2vppfilter.so
 vendor/lib/libqcodec2_base.so
@@ -402,6 +403,7 @@ vendor/lib/libqcodec2_hooks.so
 vendor/lib/libqcodec2_platform.so
 vendor/lib/libqcodec2_utils.so
 vendor/lib/libqcodec2_v4l2codec.so
+vendor/lib64/libmm-color-convertor.so
 vendor/lib64/libmmosal.so
 
 # Media (Dolby Vision) - from renoir V14.0.10.0
@@ -450,6 +452,7 @@ vendor/bin/nv_mac
 # OMX
 vendor/lib/libAlacSwDec.so
 vendor/lib/libApeSwDec.so
+vendor/lib/libFlacSwDec.so
 vendor/lib/libMpeghSwEnc.so
 vendor/lib/libOmxAacDec.so
 vendor/lib/libOmxAlacDec.so
@@ -749,6 +752,7 @@ vendor/lib/libqconfigclient.so
 vendor/lib/libvppclient.so
 vendor/lib/libvpphcp.so
 vendor/lib/libvpphvx.so
+vendor/lib/libvppimmotion.so
 vendor/lib/libvpplibrary.so
 vendor/lib/vendor.qti.hardware.qconfig@1.0.so
 vendor/lib/vendor.qti.hardware.vpp@1.1.so
@@ -759,6 +763,7 @@ vendor/lib64/libqconfigclient.so
 vendor/lib64/libvppclient.so
 vendor/lib64/libvpphcp.so
 vendor/lib64/libvpphvx.so
+vendor/lib64/libvppimmotion.so
 vendor/lib64/libvpplibrary.so
 vendor/lib64/vendor.qti.hardware.qconfig@1.0.so
 vendor/lib64/vendor.qti.hardware.vpp@1.1.so
