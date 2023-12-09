@@ -344,7 +344,9 @@ PRODUCT_PACKAGES += \
     libOmxQcelp13Enc \
     libstagefrighthw \
     libstagefright_omx \
-    libstagefright_foundation
+    libstagefright_foundation \
+    libsfplugin_ccodec_utils.vendor \
+    libavservices_minijail_vendor 
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/media/init.qti.media.sh:$(TARGET_COPY_OUT_VENDOR)/bin/init.qti.media.sh \
